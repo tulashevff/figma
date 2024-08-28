@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Logo{
+    display: flex;
+    gap: 50px;
+    background-color: black;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+}
+.Logo-2 img{
+    width: 100%;
+}
+.Logo-2 h1{
+    text-align: center;
+    color: white;
+    align-items: center;
+    margin-top: 300px;
+    margin-right: 500px;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(./Rectangle\ 12.png)
+}
